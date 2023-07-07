@@ -1,2 +1,2 @@
-# JS-ile-Puan-Hesaplama-Uygulamasi-Switch-Case-
-JavaScript(Switch &amp; Case) ile Sınav Puanı Hesaplama Uygulaması.
+# Exam score calculation application
+I made a test score calculation application using only JavaScript switch-case structure.
